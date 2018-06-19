@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { Hero } from './hero';
 
 /*This displays my favourite heroes list. An array of four heroes has been created and 
-that is displayed. IN order to validate a stetemnt about the hero, a true false is setup
+that is displayed. IN order to validate a statement about the hero, a true false is setup
 which highlights the usage of boolean datatype. */
 
 @Component({

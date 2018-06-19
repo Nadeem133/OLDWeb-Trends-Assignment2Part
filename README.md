@@ -1,5 +1,28 @@
 # Assign2p1
 
+"# WebTrends-Assignment2Part1" 
+
+There are few updates about this this part of assignment.
+
+Component
+Service
+Model 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------Old Updates --------------------------------------------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
